@@ -18,7 +18,7 @@ Link to privacy policy of third party service providers used by the game
 
 [Google Play Services](https://policies.google.com/privacy)
 
-[Unity]([https://policies.google.com/privacy](https://unity.com/legal/privacy-policy))
+[Unity]([https://policies.google.com/privacy](https://unity.com/legal/privacy-policy)
 Log Data
 
 I want to inform you that whenever you use my Service, in a case of an error in the game I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the game when utilizing my Service, the time and date of your use of the Service, and other statistics.
