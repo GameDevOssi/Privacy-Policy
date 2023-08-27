@@ -17,6 +17,7 @@ The game does use third party services that may collect information used to iden
 Link to privacy policy of third party service providers used by the game
 
 [Google Play Services](https://policies.google.com/privacy)
+
 [Unity]([https://policies.google.com/privacy](https://unity.com/legal/privacy-policy))
 Log Data
 
