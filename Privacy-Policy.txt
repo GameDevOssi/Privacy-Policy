@@ -1,4 +1,4 @@
-r# Privacy-Policy
+# Privacy-Policy
 
 Ossi built the Falling Cubes game as an Ad Supported game. This SERVICE is provided by Ossi at no cost and is intended for use as is.
 
